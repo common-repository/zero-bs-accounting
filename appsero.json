@@ -1,0 +1,12 @@
+{
+  "exclude": [
+    ".git",
+    "appsero/.git",
+    "appsero.json",
+    ".gitignore",
+    "package.json",
+    "package-lock.json",
+    "webpack",
+    "src"
+  ]
+}
